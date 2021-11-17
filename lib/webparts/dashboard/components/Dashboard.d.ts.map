@@ -1,0 +1,1 @@
+{"version":3,"file":"Dashboard.d.ts","sourceRoot":"","sources":["../../../../src/webparts/dashboard/components/Dashboard.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAGpD,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,KAAK,CAAC,SAAS,CAAC,eAAe,EAAE,EAAE,CAAC;IAClE,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,eAAe,CAAC;CAkBrD"}
