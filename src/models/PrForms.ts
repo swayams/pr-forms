@@ -1,0 +1,3 @@
+interface PurchaseRequest {
+    id: number
+}
