@@ -1,3 +1,4 @@
 interface PurchaseRequest {
-    id: number
+    id: number,
+	title:string
 }
