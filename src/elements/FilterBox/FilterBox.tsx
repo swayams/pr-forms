@@ -10,7 +10,7 @@ export interface IFilterBoxProps  {
 
 export const FilterBox = ( props: IFilterBoxProps) => {
     return (
-        <div className={styles['filter-card']}>
+        <div className={styles.filterCard}>
 
         </div>
     )
