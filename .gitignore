@@ -1,1 +1,7 @@
+node_moduless
+release/
+*.d.ts
+*.js
+*.js.map
+*.map
 node_modules
